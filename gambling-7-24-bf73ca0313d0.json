@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gambling-7-24",
+  "private_key_id": "bf73ca0313d0fd2bf36f7890b70f78fc58216546",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZT8JLUI7/2Fe7\nUFCYBmbG2Jv/MhzSsBRzlKKYfP7+7VyWwiDO2rjchhpswkt67x8mVszS6brmGqM3\nmkA9Mo/VF6jiyolJn4njoW/QangLV8MDRxJY57Wv3WhJJM2bb7M53CWLYDsKcWWh\nGYW8U2QHuCIw1qT437hfTFa7fKg9+V0Qyv9x+pBso8vF8jbgC3sHt5vu9DGE06NU\nFxpCWVt0SsVMqAWWVD4vf6zcvoyMidcO7kD2P7WxA6vtmz9Mj5Ez/4pBrhZpjbUJ\n4G2ZuHye6C+zQRgz6XHSkFk9RjF/+O/eyABaRuHsT6uBuO7yifi00OfxqxLRxFd5\nISNJ0ZW5AgMBAAECggEAAT5Ae2D8BHDW0E/tZMU/8Bob9a8yH4QZhdoUk7XpWTN/\nQK8zyVh9JL57/GHLKpT0yGnINQUDHZ8K49NKfp8hWAPRN++Wg/jj7M0HCvnvnbRU\nPa/50KTjXZzGZIlk8g3xnZ6JtMepkXh5xJy/rrFfxIne4N560J//rxnhyCOhLG4+\npqstfHIGvY6J2HsUZbv9qj9ig3+mRyBKd3QCvdJ0jApes1+KD3dIX0TKy4SGytn6\nUF/58dYHRf2Wwks3Db8oWmBIjo7ByupBm6/TKazkxowSmbwYDDLAIHpJQtOH3g1D\nuwNfhXCJ/G8003Hl8rMc1GfxKeFy3e0Cn3hpnAyo1QKBgQDwKA4ENdfYlUxtfxEI\nC9HnO9xYEZmu6tTLxU03nsNIvmHFoy/cTqzYO1aHTHrmHowcN218HkSts+lLAk0L\nqZPNi35Ptdh6BL8jRqEK13cpT+YUlwDw6QaOn5DYYjazY3CIqkfvRlOQqVDJDTyN\nm1feVdkvNi0a+NF3lboaEGmRTQKBgQDnpeHOBybb3Ch9uvPuCAZSI8rQF7ylsTil\nxeKBKsODUlUPis5pkzZjeMzAhb7bmiIIq32Xgegt0LM3Z3t8U3Yl9gZ7H8qsm2Yj\no+I6EvW8neuki5aCBYweRyTIE5eVKDipefaRsICZCF6V/WiYPZsCZxb4THUX2tp8\nx3CKeTygHQKBgQCvV+9z74QbJFbbE41x3H9zX2dv/dnBtr+L0BCi7Y4TzL1COfW1\n2tOkRR7WRmbtIZyW9XlAyDDIyrUpCRML0tKRnqmotVLLNDACJ41phwv/49BPdDlB\nrEIXXDW7Z2oc7Bu8DOfcsfJNivHq+Xkewy8SrIeYSuv/52+46l8orJcHeQKBgQCA\n8jzk0+RUpJPBkUzxpnPmS1g9R8lSLnmLBcFVB3n34t/InArUiAbRjk/jp0+brIvf\naZ6qtLyKrE7mu2roxQjSjsYCyaqnNIXBtxtaGm3CBeJDIRSx4eaigBXAbe+GLvKD\nnImdhbO//AGy2nHbtQdRahNGOkE/+yp+JQLHgj82HQKBgB6f/3kw4pLZYNcq87n1\nCFq0yofoSFN4lbicN84GvzqQUNy9zurutlvR4PohPqEk5edJZOMOzWpY79b4iVg1\nUKj07E3Vzf9FSPSUdSfHRUJX3rv+daYTghnUCW29ZYB8C6TiCyhjUaOiNW2WeMDq\n2OZZEr7x0gpTEbrUqDJ5hozk\n-----END PRIVATE KEY-----\n",
+  "client_email": "erik-552@gambling-7-24.iam.gserviceaccount.com",
+  "client_id": "100528146608124500350",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/erik-552%40gambling-7-24.iam.gserviceaccount.com"
+}
